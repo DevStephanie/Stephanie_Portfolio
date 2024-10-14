@@ -27,5 +27,5 @@ CSS3
 Rough wireframe: 
 
 ## Rough Wireframe Draft: 
-<img src="./images/wireframe_html.png" alt="Alt text" width="600"/>
+<img src="./images/wireframe_html.png" alt="Alt text"  width="600"/>
 
